@@ -25,6 +25,10 @@ div {
   background-color: green;
 }
 
+.palevioletred {
+  background-color: palevioletred
+}
+
 .invisible {
   display: none;
 }
